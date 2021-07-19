@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         bg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                    
             }
         });
 
