@@ -7,13 +7,11 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button b1;
-
+    Button bg;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        b1=findViewById(R.id.b1);
 
     }
 }
